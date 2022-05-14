@@ -32,6 +32,9 @@ HTML + Js code -
             <button onclick="setMood()">Set Mood</button>
         </div>
     </body>
+    
+    
+    
 
 <script
   src="https://cdn.ethers.io/scripts/ethers-v4.min.js"
